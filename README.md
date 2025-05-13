@@ -1,4 +1,14 @@
+
+> 致敬所有用户，希望你们能保持反叛的精神，运用智慧——如果无法通过勇气的话，来做一些不一样的事。
+> 
+> <div align="right">R.I.P PAFD, 2020.02 - 2022.12.09</div>
+
+![image](https://user-images.githubusercontent.com/29735669/206698173-decd611f-dc24-4ca1-9a24-e10c3c6fe6b8.png)
+
+
 # 自动填写 PAFD
+
+⚠️⚠️：本项目填写地址的原理是自动延续上一次手动填写的；所以如果您中长期切换了居住地，如寒暑假/交流等，**请务必在地址稳定后手动填写一次**让之后的地址自动填写正确，**否则可能会被学校锁门禁权限**。
 
 update: 如果你是 PAFD 的用户，对技术感兴趣，欢迎加入我们的 slack 组织，用 fudan.edu.cn 或者 m.fudan.edu.cn 的学号邮箱[点击这里注册加入 slack](https://join.slack.com/t/fducslg/signup) （可能需要科学上网工具）
 
